@@ -1,0 +1,26 @@
+{
+  "name": "exp_openhands",
+  "version": "1.0.0",
+  "description": "Openhands検証用",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yasuhiro-mizuno/exp_openhands.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yasuhiro-mizuno/exp_openhands/issues"
+  },
+  "homepage": "https://github.com/yasuhiro-mizuno/exp_openhands#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0"
+  }
+}
